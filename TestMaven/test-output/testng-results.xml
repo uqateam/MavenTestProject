@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="7430" started-at="2019-09-09T18:06:10Z" finished-at="2019-09-09T18:06:18Z">
+  <suite name="Suite" duration-ms="6049" started-at="2019-09-09T18:38:49Z" finished-at="2019-09-09T18:38:55Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="7430" started-at="2019-09-09T18:06:10Z" finished-at="2019-09-09T18:06:18Z">
+    <test name="Test" duration-ms="6049" started-at="2019-09-09T18:38:49Z" finished-at="2019-09-09T18:38:55Z">
       <class name="MavenTestProject.TestMaven.SampleTest">
-        <test-method status="FAIL" signature="test1()[pri:0, instance:MavenTestProject.TestMaven.SampleTest@6767c1fc]" name="test1" duration-ms="7299" started-at="2019-09-09T18:06:10Z" finished-at="2019-09-09T18:06:18Z">
+        <test-method status="FAIL" signature="test1()[pri:0, instance:MavenTestProject.TestMaven.SampleTest@2b98378d]" name="test1" duration-ms="6027" started-at="2019-09-09T18:38:49Z" finished-at="2019-09-09T18:38:55Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[null]]>
@@ -16,7 +16,7 @@
               <![CDATA[java.lang.AssertionError: null
 at org.testng.Assert.fail(Assert.java:96)
 at org.testng.Assert.fail(Assert.java:103)
-at MavenTestProject.TestMaven.SampleTest.test1(SampleTest.java:28)
+at MavenTestProject.TestMaven.SampleTest.test1(SampleTest.java:29)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
