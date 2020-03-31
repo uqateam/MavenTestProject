@@ -22,7 +22,7 @@ public class SampleTest {
 		System.out.println(BrowserName);
 		
 		//if (BrowserName.contentEquals(expectedname)){*/
-            System.out.println("Test Passed! - Doing nothing");
+            System.out.println("Test Passed! - Doing nothing"); 
         //} else {
           //  System.out.println("Test Failed");
             //driver.close();
