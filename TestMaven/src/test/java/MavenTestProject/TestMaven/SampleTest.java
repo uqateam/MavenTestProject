@@ -16,7 +16,7 @@ public class SampleTest {
 	    WebDriver driver=new ChromeDriver();  
 		driver.navigate().to("http://www.google.com/");  
 		driver.manage().window().maximize(); 
-		String expectedname="Suuchi";
+		String expectedname="Test";
 		//String expectedname="Google";
 		String BrowserName = driver.getTitle();
 		System.out.println(BrowserName);
